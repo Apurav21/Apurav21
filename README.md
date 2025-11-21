@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Apurav Singh Jaswal
 
-<!--
-**Apurav21/Apurav21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate from Himachal Pradesh  
+💻 Aspiring **Full-Stack Web Developer**  
+☁️ Interested in **Cloud + AI + Web**  
+📍 Based in Chandigarh, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+
+- Learning **HTML, CSS, JavaScript** deeply  
+- Building **full-stack projects** (MERN soon)  
+- Improving problem solving & clean code  
+- Exploring **cloud computing & AI integration**
+
+---
+
+## 🧰 Tech Stack (Growing)
+
+- **Frontend:** HTML, CSS, JavaScript  
+- **Tools:** VS Code, Git, GitHub, Chrome DevTools  
+- **Learning Next:** React.js, Node.js, MongoDB, Cloud basics  
+
+---
+
+## 📦 Highlight Projects
+
+- 🛒 **E-commerce Website** – BCA final year project  
+- 🎬 **Netflix Clone (Frontend)** – HTML, CSS, JS  
+- 🎧 **Spotify-style Music UI** – (Coming soon)  
+- 🌐 **Personal Portfolio Website** – Showcasing my work  
+
+---
+
+## 📚 Currently Learning
+
+- Modern JavaScript (ES6+)
+- Responsive web design
+- Git & GitHub for real-world projects
+- Basics of APIs and backend
+
+---
+
+## 📈 GitHub Goals
+
+- Push code **almost every day**
+- Build **real, usable projects**
+- Contribute to **open-source** once I’m confident
+
+---
+
+## ☎️ Connect with Me
+
+- 💼 LinkedIn: *add your link here*
+- 📧 Email: *add your email here*
+
+> Always learning, one commit at a time. 🚀
