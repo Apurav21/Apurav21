@@ -52,7 +52,7 @@
 
 ## ☎️ Connect with Me
 
-- 💼 LinkedIn: *add your link here*
-- 📧 Email: *add your email here*
+- 💼 LinkedIn: **
+- 📧 Email: *apuravsingh24@gmail.com*
 
 > Always learning, one commit at a time. 🚀
